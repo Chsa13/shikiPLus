@@ -10,8 +10,8 @@
 // @icon         https://www.google.com/s2/favicons?domain=shikimori.me
 // @license      MIT
 // @copyright    Copyright © 2024 chsa13. All rights reserved.
-// @downloadURL  https://github.com/Chsa13/ShkiPlus/raw/master/shikiPlus.user.js
-// @updateURL    https://github.com/Chsa13/ShkiPlus/raw/master/shikiPlus.user.js
+// @downloadURL  https://github.com/Chsa13/shikiPLus/raw/main/shikiPlus.user.js
+// @updateURL    https://github.com/Chsa13/shikiPLus/raw/main/shikiPlus.user.js
 // ==/UserScript==
 let RonobeLibLink = "https://ranobelib.me/ru/"
 let MangaLibLink = "https://test-front.mangalib.me/ru/"
