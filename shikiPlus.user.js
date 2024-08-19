@@ -187,8 +187,10 @@ async function animelib(href) {
     document.querySelector('.b-db_entry').appendChild(fr)
 }
 async function addBtn() {
+    if (document.querySelector('.shikiPlus')) return
     let lic = false
     let btn = document.createElement("div")
+    btn.classList.add("shikiPlus")
     let clickFunc = function() {
         1 == 1
     }
