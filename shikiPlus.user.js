@@ -3,7 +3,7 @@
 // @author       chsa13
 // @description  script add viewer and playeer on shikimori
 // @namespace    http://shikimori.me/
-// @version      1.3
+// @version      1.5
 // @match        *://shikimori.org/*
 // @match        *://shikimori.one/*
 // @match        *://shikimori.me/*
